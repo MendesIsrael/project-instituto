@@ -1,6 +1,11 @@
+import './styles.css'
+import { Home } from "./Home"
+
 
 export function App() {
   return (
-    <h1>oi</h1>
+    <div>
+    <Home/>
+    </div>
   )
 }
