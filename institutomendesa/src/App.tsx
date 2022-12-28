@@ -1,11 +1,16 @@
+import { Page01 } from "./components/Page01"
+import { RoutePages } from "./components/RouterPages"
+import { BrowserRouter } from 'react-router-dom'
+import { NavBar } from "./components/NavBar"
+
 import './styles.css'
-import { Home } from "./Home"
 
 
 export function App() {
   return (
-    <div>
-    <Home/>
-    </div>
+    <BrowserRouter>
+      <NavBar/>
+      <RoutePages/>
+    </BrowserRouter>
   )
 }
