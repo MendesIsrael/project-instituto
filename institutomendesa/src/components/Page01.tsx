@@ -23,9 +23,17 @@ export function Page01() {
         </Carousel>
       </div> 
 
-      <div id='quemsomos'>
+      <div id="quemsomos">
         <h1>QUEM SOMOS</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas provident, velit voluptatem laborum aspernatur debitis quae deserunt accusamus accusantium harum dolorem quisquam, libero sapiente! Nemo asperiores molestiae assumenda iure architecto. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos tempora voluptate quidem at natus, maiores distinctio eveniet perferendis doloremque officia laborum dignissimos eum unde tempore! Accusantium cupiditate quidem aliquam distinctio? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore commodi ratione temporibus autem aut officia deserunt ad, quas distinctio modi, aliquam vero? Earum, possimus in itaque quae nisi temporibus fugiat. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis officia accusamus totam doloribus obcaecati. Cupiditate qui earum, sequi corrupti dolor animi sit iure libero omnis? Ad pariatur eaque quod facere? Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque ducimus sunt pariatur maxime porro itaque ratione quas quisquam minima aspernatur minus, sed natus dolore sapiente facilis libero laboriosam fuga?</p>
+        <div id='visao'>
+          <h1>Visão</h1>
+          <p>Buscamos sempre desenvolver o seu potencial máximo - melhorando o condicionamento físico geral, a consciência corporal e a coordenação motora, prevenindo e reduzindo os ricos de lesões e o alívio de dores crônicas.</p>
+        </div>
+        <div id='missao'>
+          <h1>Missão</h1>
+          <p>A missão do Studio Crescer é Contribuir para que as pessoas alcancem uma melhor qualidade nos mais diversos aspectos da vida, utilizando serviços especializados e diferenciados com o método de Pilates, hidroginástica, funcional e lutas.</p>
+        </div>
       </div>
 
       <div className="acesso">
