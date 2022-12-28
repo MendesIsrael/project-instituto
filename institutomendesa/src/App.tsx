@@ -1,9 +1,9 @@
-import { Page01 } from "./components/Page01"
-import { RoutePages } from "./components/RouterPages"
+import { Page01 } from './components/Page01'
+import { RoutePages } from './components/RouterPages'
 import { BrowserRouter } from 'react-router-dom'
-import { NavBar } from "./components/NavBar"
+import { NavBar } from './components/NavBar'
 
-import './styles.css'
+import './global.css'
 
 
 export function App() {
